@@ -3,7 +3,7 @@ FROM java:8
 MAINTAINER zoido <zoido@users.noreply.github.com>
 
 ENV ANT_VERSION 1.9.7
-ENV PHANTOMBOT_VERSION v2.3.2
+ENV PHANTOMBOT_VERSION v2.3.3
 
 ##############################################################################
 # závislosti

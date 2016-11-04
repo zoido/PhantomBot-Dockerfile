@@ -1,2 +1,3 @@
 # PhantomBot-Dockerfile
-Docker 
+
+Dockerfile for PhantomBot/PhantomBot

@@ -9,6 +9,7 @@ git clone git@github.com:zoido/PhantomBot-Dockerfile.git
 
 ## build
 ```console
+cd PhantomBot-Dockerfile
 docker build -t zoido/phantombot .
 ```
 

@@ -4,7 +4,7 @@ Dockerfile for [PhantomBot](https://github.com/phantombot/phantombot).
 
 ## clone
 ```console
-git clone git@github.com:zoido/PhantomBot-Dockerfile.git
+git clone https://github.com/zoido/PhantomBot-Dockerfile.git
 ```
 
 ## build
